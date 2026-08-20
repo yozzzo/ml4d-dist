@@ -7,7 +7,7 @@
   </dict></array>
   <key>metadata</key><dict>
     <key>bundle-identifier</key><string>co.openheart.ml4d</string>
-    <key>bundle-version</key><string>7</string>
+    <key>bundle-version</key><string>8</string>
     <key>kind</key><string>software</string>
     <key>title</key><string>ml4d</string>
   </dict>
